@@ -1,0 +1,38 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from KantorPrzeliczService WSDL service -->
+
+  <service name="KantorPrzelicz" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://service.web.com.kantor"/>
+      <parameter name="wsdlServiceElement" value="KantorPrzeliczService"/>
+      <parameter name="schemaQualified" value="http://service.web.com.kantor"/>
+      <parameter name="wsdlServicePort" value="KantorPrzelicz"/>
+      <parameter name="className" value="kantor.com.web.service.KantorPrzeliczSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="KantorPrzelicz"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="EURnaPLN" qname="operNS:EURnaPLN" xmlns:operNS="http://service.web.com.kantor" returnQName="retNS:EURnaPLNReturn" xmlns:retNS="http://service.web.com.kantor" returnType="rtns:double" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:value" xmlns:pns="http://service.web.com.kantor" type="tns:double" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="PLNnaEUR" qname="operNS:PLNnaEUR" xmlns:operNS="http://service.web.com.kantor" returnQName="retNS:PLNnaEURReturn" xmlns:retNS="http://service.web.com.kantor" returnType="rtns:double" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:value" xmlns:pns="http://service.web.com.kantor" type="tns:double" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="PLNnaUSD" qname="operNS:PLNnaUSD" xmlns:operNS="http://service.web.com.kantor" returnQName="retNS:PLNnaUSDReturn" xmlns:retNS="http://service.web.com.kantor" returnType="rtns:double" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:value" xmlns:pns="http://service.web.com.kantor" type="tns:double" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="USDnaPLN" qname="operNS:USDnaPLN" xmlns:operNS="http://service.web.com.kantor" returnQName="retNS:USDnaPLNReturn" xmlns:retNS="http://service.web.com.kantor" returnType="rtns:double" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:value" xmlns:pns="http://service.web.com.kantor" type="tns:double" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <parameter name="allowedMethods" value="PLNnaEUR EURnaPLN USDnaPLN PLNnaUSD"/>
+
+  </service>
+</deployment>
