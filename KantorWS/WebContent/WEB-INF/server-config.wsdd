@@ -7,8 +7,8 @@
   <ns1:parameter name="dotNetSoapEncFix" value="true"/>
   <ns1:parameter name="enableNamespacePrefixOptimization" value="false"/>
   <ns1:parameter name="sendXMLDeclaration" value="true"/>
-  <ns1:parameter name="sendXsiTypes" value="true"/>
   <ns1:parameter name="attachments.implementation" value="org.apache.axis.attachments.AttachmentsImpl"/>
+  <ns1:parameter name="sendXsiTypes" value="true"/>
   <ns1:requestFlow>
    <ns1:handler type="java:org.apache.axis.handlers.JWSHandler">
     <ns1:parameter name="scope" value="session"/>
@@ -34,11 +34,11 @@
   <ns1:operation name="PLNnaUSD" qname="ns3:PLNnaUSD" returnQName="ns3:PLNnaUSDReturn" returnType="xsd:double" soapAction="" xmlns:ns3="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
   <ns1:operation name="USDnaPLN" qname="ns4:USDnaPLN" returnQName="ns4:USDnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns4="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
   <ns1:parameter name="allowedMethods" value="PLNnaEUR EURnaPLN USDnaPLN PLNnaUSD"/>
-  <ns1:parameter name="typeMappingVersion" value="1.2"/>
   <ns1:parameter name="wsdlPortType" value="KursyPokaz"/>
-  <ns1:parameter name="className" value="kantor.com.web.service.KursyPokaz"/>
-  <ns1:parameter name="wsdlServicePort" value="KursyPokaz"/>
+  <ns1:parameter name="typeMappingVersion" value="1.2"/>
   <ns1:parameter name="schemaQualified" value="http://service.web.com.kantor"/>
+  <ns1:parameter name="wsdlServicePort" value="KursyPokaz"/>
+  <ns1:parameter name="className" value="kantor.com.web.service.KursyPokaz"/>
   <ns1:parameter name="wsdlTargetNamespace" value="http://service.web.com.kantor"/>
   <ns1:parameter name="wsdlServiceElement" value="KursyPokazService"/>
  </ns1:service>
@@ -50,21 +50,46 @@
   <ns1:operation name="EURnaPLN" qname="ns5:EURnaPLN" returnQName="ns5:EURnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns5="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <ns1:parameter qname="ns5:value" type="xsd:double"/>
   </ns1:operation>
-  <ns1:operation name="PLNnaEUR" qname="ns6:PLNnaEUR" returnQName="ns6:PLNnaEURReturn" returnType="xsd:double" soapAction="" xmlns:ns6="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ns1:operation name="PLNnaUSD" qname="ns6:PLNnaUSD" returnQName="ns6:PLNnaUSDReturn" returnType="xsd:double" soapAction="" xmlns:ns6="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <ns1:parameter qname="ns6:value" type="xsd:double"/>
   </ns1:operation>
-  <ns1:operation name="PLNnaUSD" qname="ns7:PLNnaUSD" returnQName="ns7:PLNnaUSDReturn" returnType="xsd:double" soapAction="" xmlns:ns7="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ns1:operation name="USDnaPLN" qname="ns7:USDnaPLN" returnQName="ns7:USDnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns7="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <ns1:parameter qname="ns7:value" type="xsd:double"/>
   </ns1:operation>
-  <ns1:operation name="USDnaPLN" qname="ns8:USDnaPLN" returnQName="ns8:USDnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns8="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ns1:operation name="PLNnaEUR" qname="ns8:PLNnaEUR" returnQName="ns8:PLNnaEURReturn" returnType="xsd:double" soapAction="" xmlns:ns8="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
    <ns1:parameter qname="ns8:value" type="xsd:double"/>
   </ns1:operation>
-  <ns1:parameter name="allowedMethods" value="PLNnaEUR EURnaPLN USDnaPLN PLNnaUSD"/>
-  <ns1:parameter name="wsdlPortType" value="KantorPrzelicz"/>
+  <ns1:operation name="JPYnaPLN" qname="ns9:JPYnaPLN" returnQName="ns9:JPYnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns9="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns9:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="PLNnaGBP" qname="ns10:PLNnaGBP" returnQName="ns10:PLNnaGBPReturn" returnType="xsd:double" soapAction="" xmlns:ns10="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns10:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="RUBnaPLN" qname="ns11:RUBnaPLN" returnQName="ns11:RUBnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns11="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns11:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="PLNnaRUB" qname="ns12:PLNnaRUB" returnQName="ns12:PLNnaRUBReturn" returnType="xsd:double" soapAction="" xmlns:ns12="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns12:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="PLNnaCHE" qname="ns13:PLNnaCHE" returnQName="ns13:PLNnaCHEReturn" returnType="xsd:double" soapAction="" xmlns:ns13="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns13:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="PLNnaJPY" qname="ns14:PLNnaJPY" returnQName="ns14:PLNnaJPYReturn" returnType="xsd:double" soapAction="" xmlns:ns14="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns14:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="CHEnaPLN" qname="ns15:CHEnaPLN" returnQName="ns15:CHEnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns15="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns15:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="GBPnaPLN" qname="ns16:GBPnaPLN" returnQName="ns16:GBPnaPLNReturn" returnType="xsd:double" soapAction="" xmlns:ns16="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <ns1:parameter qname="ns16:value" type="xsd:double"/>
+  </ns1:operation>
+  <ns1:operation name="pobierz_kursy_walut" qname="ns17:pobierz_kursy_walut" returnQName="ns17:pobierz_kursy_walutReturn" returnType="xsd:double" soapAction="" xmlns:ns17="http://service.web.com.kantor" xmlns:xsd="http://www.w3.org/2001/XMLSchema"/>
+  <ns1:parameter name="allowedMethods" value="PLNnaJPY GBPnaPLN JPYnaPLN PLNnaUSD RUBnaPLN PLNnaEUR pobierz_kursy_walut EURnaPLN CHEnaPLN USDnaPLN PLNnaRUB PLNnaCHE PLNnaGBP"/>
   <ns1:parameter name="typeMappingVersion" value="1.2"/>
-  <ns1:parameter name="schemaQualified" value="http://service.web.com.kantor"/>
-  <ns1:parameter name="wsdlServicePort" value="KantorPrzelicz"/>
+  <ns1:parameter name="wsdlPortType" value="KantorPrzelicz"/>
   <ns1:parameter name="className" value="kantor.com.web.service.KantorPrzelicz"/>
+  <ns1:parameter name="wsdlServicePort" value="KantorPrzelicz"/>
+  <ns1:parameter name="schemaQualified" value="http://service.web.com.kantor"/>
   <ns1:parameter name="wsdlTargetNamespace" value="http://service.web.com.kantor"/>
   <ns1:parameter name="wsdlServiceElement" value="KantorPrzeliczService"/>
  </ns1:service>

@@ -18,20 +18,6 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
      </sequence>
     </complexType>
    </element>
-   <element name="PLNnaEUR">
-    <complexType>
-     <sequence>
-      <element name="value" type="xsd:double"/>
-     </sequence>
-    </complexType>
-   </element>
-   <element name="PLNnaEURResponse">
-    <complexType>
-     <sequence>
-      <element name="PLNnaEURReturn" type="xsd:double"/>
-     </sequence>
-    </complexType>
-   </element>
    <element name="PLNnaUSD">
     <complexType>
      <sequence>
@@ -60,8 +46,152 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
      </sequence>
     </complexType>
    </element>
+   <element name="PLNnaEUR">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaEURResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaEURReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="JPYnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="JPYnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="JPYnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaGBP">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaGBPResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaGBPReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="RUBnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="RUBnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="RUBnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaRUB">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaRUBResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaRUBReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaCHE">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaCHEResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaCHEReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaJPY">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaJPYResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaJPYReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="CHEnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="CHEnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="CHEnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="GBPnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="GBPnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="GBPnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="pobierz_kursy_walut">
+    <complexType/>
+   </element>
+   <element name="pobierz_kursy_walutResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="pobierz_kursy_walutReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
   </schema>
  </wsdl:types>
+
+   <wsdl:message name="PLNnaJPYRequest">
+
+      <wsdl:part element="impl:PLNnaJPY" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
 
    <wsdl:message name="EURnaPLNResponse">
 
@@ -71,9 +201,33 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
 
    </wsdl:message>
 
-   <wsdl:message name="PLNnaEURRequest">
+   <wsdl:message name="GBPnaPLNRequest">
 
-      <wsdl:part element="impl:PLNnaEUR" name="parameters">
+      <wsdl:part element="impl:GBPnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="RUBnaPLNRequest">
+
+      <wsdl:part element="impl:RUBnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="pobierz_kursy_walutResponse">
+
+      <wsdl:part element="impl:pobierz_kursy_walutResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaCHERequest">
+
+      <wsdl:part element="impl:PLNnaCHE" name="parameters">
 
       </wsdl:part>
 
@@ -87,9 +241,9 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
 
    </wsdl:message>
 
-   <wsdl:message name="PLNnaUSDResponse">
+   <wsdl:message name="USDnaPLNResponse">
 
-      <wsdl:part element="impl:PLNnaUSDResponse" name="parameters">
+      <wsdl:part element="impl:USDnaPLNResponse" name="parameters">
 
       </wsdl:part>
 
@@ -103,17 +257,73 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
 
    </wsdl:message>
 
-   <wsdl:message name="USDnaPLNRequest">
+   <wsdl:message name="RUBnaPLNResponse">
 
-      <wsdl:part element="impl:USDnaPLN" name="parameters">
+      <wsdl:part element="impl:RUBnaPLNResponse" name="parameters">
 
       </wsdl:part>
 
    </wsdl:message>
 
-   <wsdl:message name="USDnaPLNResponse">
+   <wsdl:message name="PLNnaEURRequest">
 
-      <wsdl:part element="impl:USDnaPLNResponse" name="parameters">
+      <wsdl:part element="impl:PLNnaEUR" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaGBPResponse">
+
+      <wsdl:part element="impl:PLNnaGBPResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaJPYResponse">
+
+      <wsdl:part element="impl:PLNnaJPYResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaRUBResponse">
+
+      <wsdl:part element="impl:PLNnaRUBResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="CHEnaPLNResponse">
+
+      <wsdl:part element="impl:CHEnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaRUBRequest">
+
+      <wsdl:part element="impl:PLNnaRUB" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaCHEResponse">
+
+      <wsdl:part element="impl:PLNnaCHEResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="CHEnaPLNRequest">
+
+      <wsdl:part element="impl:CHEnaPLN" name="parameters">
 
       </wsdl:part>
 
@@ -122,6 +332,62 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
    <wsdl:message name="EURnaPLNRequest">
 
       <wsdl:part element="impl:EURnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="JPYnaPLNRequest">
+
+      <wsdl:part element="impl:JPYnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="JPYnaPLNResponse">
+
+      <wsdl:part element="impl:JPYnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="GBPnaPLNResponse">
+
+      <wsdl:part element="impl:GBPnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaGBPRequest">
+
+      <wsdl:part element="impl:PLNnaGBP" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaUSDResponse">
+
+      <wsdl:part element="impl:PLNnaUSDResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="pobierz_kursy_walutRequest">
+
+      <wsdl:part element="impl:pobierz_kursy_walut" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="USDnaPLNRequest">
+
+      <wsdl:part element="impl:USDnaPLN" name="parameters">
 
       </wsdl:part>
 
@@ -136,18 +402,6 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
        </wsdl:input>
 
          <wsdl:output message="impl:EURnaPLNResponse" name="EURnaPLNResponse">
-
-       </wsdl:output>
-
-      </wsdl:operation>
-
-      <wsdl:operation name="PLNnaEUR">
-
-         <wsdl:input message="impl:PLNnaEURRequest" name="PLNnaEURRequest">
-
-       </wsdl:input>
-
-         <wsdl:output message="impl:PLNnaEURResponse" name="PLNnaEURResponse">
 
        </wsdl:output>
 
@@ -177,6 +431,126 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
 
       </wsdl:operation>
 
+      <wsdl:operation name="PLNnaEUR">
+
+         <wsdl:input message="impl:PLNnaEURRequest" name="PLNnaEURRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaEURResponse" name="PLNnaEURResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="JPYnaPLN">
+
+         <wsdl:input message="impl:JPYnaPLNRequest" name="JPYnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:JPYnaPLNResponse" name="JPYnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaGBP">
+
+         <wsdl:input message="impl:PLNnaGBPRequest" name="PLNnaGBPRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaGBPResponse" name="PLNnaGBPResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="RUBnaPLN">
+
+         <wsdl:input message="impl:RUBnaPLNRequest" name="RUBnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:RUBnaPLNResponse" name="RUBnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaRUB">
+
+         <wsdl:input message="impl:PLNnaRUBRequest" name="PLNnaRUBRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaRUBResponse" name="PLNnaRUBResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaCHE">
+
+         <wsdl:input message="impl:PLNnaCHERequest" name="PLNnaCHERequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaCHEResponse" name="PLNnaCHEResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaJPY">
+
+         <wsdl:input message="impl:PLNnaJPYRequest" name="PLNnaJPYRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaJPYResponse" name="PLNnaJPYResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="CHEnaPLN">
+
+         <wsdl:input message="impl:CHEnaPLNRequest" name="CHEnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:CHEnaPLNResponse" name="CHEnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="GBPnaPLN">
+
+         <wsdl:input message="impl:GBPnaPLNRequest" name="GBPnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:GBPnaPLNResponse" name="GBPnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="pobierz_kursy_walut">
+
+         <wsdl:input message="impl:pobierz_kursy_walutRequest" name="pobierz_kursy_walutRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:pobierz_kursy_walutResponse" name="pobierz_kursy_walutResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
    </wsdl:portType>
 
    <wsdl:binding name="KantorPrzeliczSoapBinding" type="impl:KantorPrzelicz">
@@ -194,24 +568,6 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
          </wsdl:input>
 
          <wsdl:output name="EURnaPLNResponse">
-
-            <wsdlsoap:body use="literal"/>
-
-         </wsdl:output>
-
-      </wsdl:operation>
-
-      <wsdl:operation name="PLNnaEUR">
-
-         <wsdlsoap:operation soapAction=""/>
-
-         <wsdl:input name="PLNnaEURRequest">
-
-            <wsdlsoap:body use="literal"/>
-
-         </wsdl:input>
-
-         <wsdl:output name="PLNnaEURResponse">
 
             <wsdlsoap:body use="literal"/>
 
@@ -248,6 +604,186 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
          </wsdl:input>
 
          <wsdl:output name="USDnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaEUR">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaEURRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaEURResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="JPYnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="JPYnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="JPYnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaGBP">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaGBPRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaGBPResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="RUBnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="RUBnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="RUBnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaRUB">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaRUBRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaRUBResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaCHE">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaCHERequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaCHEResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaJPY">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaJPYRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaJPYResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="CHEnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="CHEnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="CHEnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="GBPnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="GBPnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="GBPnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="pobierz_kursy_walut">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="pobierz_kursy_walutRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="pobierz_kursy_walutResponse">
 
             <wsdlsoap:body use="literal"/>
 

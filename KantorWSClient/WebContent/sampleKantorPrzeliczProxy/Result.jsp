@@ -2,10 +2,10 @@
 <% request.setCharacterEncoding("UTF-8"); %>
 <HTML>
 <HEAD>
-<TITLE>Result</TITLE>
+<TITLE>WYNIK</TITLE>
 </HEAD>
 <BODY>
-<H1>Result</H1>
+<H3>WYNIKI</H3>
 
 <jsp:useBean id="sampleKantorPrzeliczProxyid" scope="session" class="kantor.com.web.service.KantorPrzeliczProxy" />
 <%
@@ -65,53 +65,150 @@ case 13:
         gotMethod = true;
         String value_1id=  request.getParameter("value16");
         double value_1idTemp  = Double.parseDouble(value_1id);
-        double EURnaPLN13mtemp = sampleKantorPrzeliczProxyid.EURnaPLN(value_1idTemp);
-        String tempResultreturnp14 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(EURnaPLN13mtemp));
+        double USDnaPLN13mtemp = sampleKantorPrzeliczProxyid.USDnaPLN(value_1idTemp);
+        String tempResultreturnp14 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(USDnaPLN13mtemp));
         %>
-        <%= tempResultreturnp14 %>
+        <%= tempResultreturnp14 %><%="PLN"%>
         <%
 break;
 case 18:
         gotMethod = true;
-        String value_2id=  request.getParameter("value21");
+        double[] pobierz_kursy_walut18mtemp = sampleKantorPrzeliczProxyid.pobierz_kursy_walut();
+if(pobierz_kursy_walut18mtemp == null){
+%>
+<%=pobierz_kursy_walut18mtemp %>
+<%
+}else{
+        String tempreturnp19 = "[";        for(int ireturnp19=0;ireturnp19< pobierz_kursy_walut18mtemp.length;ireturnp19++){
+            tempreturnp19 = tempreturnp19 + pobierz_kursy_walut18mtemp[ireturnp19] + ",";
+        }
+        int lengthreturnp19 = tempreturnp19.length();
+        tempreturnp19 = tempreturnp19.substring(0,(lengthreturnp19 - 1)) + "]";
+        %>
+        <h8><%=tempreturnp19%></h8>
+        <%
+}
+break;
+case 21:
+        gotMethod = true;
+        String value_2id=  request.getParameter("value24");
         double value_2idTemp  = Double.parseDouble(value_2id);
-        double PLNnaEUR18mtemp = sampleKantorPrzeliczProxyid.PLNnaEUR(value_2idTemp);
-        String tempResultreturnp19 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaEUR18mtemp));
+        double EURnaPLN21mtemp = sampleKantorPrzeliczProxyid.EURnaPLN(value_2idTemp);
+        String tempResultreturnp22 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(EURnaPLN21mtemp));
         %>
-        <%= tempResultreturnp19 %>
+        <%= tempResultreturnp22 %><%=" PLN"%>
         <%
 break;
-case 23:
+case 26:
         gotMethod = true;
-        String value_3id=  request.getParameter("value26");
+        String value_3id=  request.getParameter("value29");
         double value_3idTemp  = Double.parseDouble(value_3id);
-        double PLNnaUSD23mtemp = sampleKantorPrzeliczProxyid.PLNnaUSD(value_3idTemp);
-        String tempResultreturnp24 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaUSD23mtemp));
+        double PLNnaUSD26mtemp = sampleKantorPrzeliczProxyid.PLNnaUSD(value_3idTemp);
+        String tempResultreturnp27 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaUSD26mtemp));
         %>
-        <%= tempResultreturnp24 %>
+        <%= tempResultreturnp27 %><%=" USD"%>
         <%
 break;
-case 28:
+case 31:
         gotMethod = true;
-        String value_4id=  request.getParameter("value31");
+        String value_4id=  request.getParameter("value34");
         double value_4idTemp  = Double.parseDouble(value_4id);
-        double USDnaPLN28mtemp = sampleKantorPrzeliczProxyid.USDnaPLN(value_4idTemp);
-        String tempResultreturnp29 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(USDnaPLN28mtemp));
+        double PLNnaEUR31mtemp = sampleKantorPrzeliczProxyid.PLNnaEUR(value_4idTemp);
+        String tempResultreturnp32 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaEUR31mtemp));
         %>
-        <%= tempResultreturnp29 %>
+        <%= tempResultreturnp32 %><%=" EUR"%>
+        <%
+break;
+case 36:
+        gotMethod = true;
+        String value_5id=  request.getParameter("value39");
+        double value_5idTemp  = Double.parseDouble(value_5id);
+        double JPYnaPLN36mtemp = sampleKantorPrzeliczProxyid.JPYnaPLN(value_5idTemp);
+        String tempResultreturnp37 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(JPYnaPLN36mtemp));
+        %>
+        <%= tempResultreturnp37 %><%=" PLN"%>
+        <%
+break;
+case 41:
+        gotMethod = true;
+        String value_6id=  request.getParameter("value44");
+        double value_6idTemp  = Double.parseDouble(value_6id);
+        double PLNnaGBP41mtemp = sampleKantorPrzeliczProxyid.PLNnaGBP(value_6idTemp);
+        String tempResultreturnp42 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaGBP41mtemp));
+        %>
+        <%= tempResultreturnp42 %><%=" GBP"%>
+        <%
+break;
+case 46:
+        gotMethod = true;
+        String value_7id=  request.getParameter("value49");
+        double value_7idTemp  = Double.parseDouble(value_7id);
+        double RUBnaPLN46mtemp = sampleKantorPrzeliczProxyid.RUBnaPLN(value_7idTemp);
+        String tempResultreturnp47 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(RUBnaPLN46mtemp));
+        %>
+        <%= tempResultreturnp47 %><%=" PLN"%>
+        <%
+break;
+case 51:
+        gotMethod = true;
+        String value_8id=  request.getParameter("value54");
+        double value_8idTemp  = Double.parseDouble(value_8id);
+        double PLNnaRUB51mtemp = sampleKantorPrzeliczProxyid.PLNnaRUB(value_8idTemp);
+        String tempResultreturnp52 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaRUB51mtemp));
+        %>
+        <%= tempResultreturnp52 %><%=" RUB"%>
+        <%
+break;
+case 56:
+        gotMethod = true;
+        String value_9id=  request.getParameter("value59");
+        double value_9idTemp  = Double.parseDouble(value_9id);
+        double PLNnaCHE56mtemp = sampleKantorPrzeliczProxyid.PLNnaCHE(value_9idTemp);
+        String tempResultreturnp57 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaCHE56mtemp));
+        %>
+        <%= tempResultreturnp57 %><%=" CHF"%>
+        <%
+break;
+case 61:
+        gotMethod = true;
+        String value_10id=  request.getParameter("value64");
+        double value_10idTemp  = Double.parseDouble(value_10id);
+        double PLNnaJPY61mtemp = sampleKantorPrzeliczProxyid.PLNnaJPY(value_10idTemp);
+        String tempResultreturnp62 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(PLNnaJPY61mtemp));
+        %>
+        <%= tempResultreturnp62 %><%=" JPY"%>
+        <%
+break;
+case 66:
+        gotMethod = true;
+        String value_11id=  request.getParameter("value69");
+        double value_11idTemp  = Double.parseDouble(value_11id);
+        double CHEnaPLN66mtemp = sampleKantorPrzeliczProxyid.CHEnaPLN(value_11idTemp);
+        String tempResultreturnp67 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(CHEnaPLN66mtemp));
+        %>
+        <%= tempResultreturnp67 %><%=" PLN"%>
+        <%
+break;
+case 71:
+        gotMethod = true;
+        String value_12id=  request.getParameter("value74");
+        double value_12idTemp  = Double.parseDouble(value_12id);
+        double GBPnaPLN71mtemp = sampleKantorPrzeliczProxyid.GBPnaPLN(value_12idTemp);
+        String tempResultreturnp72 = org.eclipse.jst.ws.util.JspUtils.markup(String.valueOf(GBPnaPLN71mtemp));
+        %>
+        <%= tempResultreturnp72 %><%=" PLN"%>
         <%
 break;
 }
 } catch (Exception e) { 
 %>
-Exception: <%= org.eclipse.jst.ws.util.JspUtils.markup(e.toString()) %>
-Message: <%= org.eclipse.jst.ws.util.JspUtils.markup(e.getMessage()) %>
+<h4><B>Przepraszamy niestety w ten sposób programu nie zepsujesz :)</B></h4>
 <%
 return;
 }
 if(!gotMethod){
 %>
-result: N/A
+Kalkulacja waluty: N/A
 <%
 }
 %>

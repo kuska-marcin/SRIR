@@ -1,17 +1,32 @@
 <%@page contentType="text/html;charset=UTF-8"%><HTML>
 <HEAD>
-<TITLE>Methods</TITLE>
+<TITLE>WALUTY</TITLE>
 </HEAD>
 <BODY>
-<H1>Methods</H1>
+<CENTER>
+	<H3>WYBIERZ WALUTE DO PRZELICZENIA</H3>
+</CENTER>
 <UL>
-<LI><A HREF="Input.jsp?method=2" TARGET="inputs"> getEndpoint()</A></LI>
-<LI><A HREF="Input.jsp?method=5" TARGET="inputs"> setEndpoint(java.lang.String)</A></LI>
-<LI><A HREF="Input.jsp?method=10" TARGET="inputs"> getKantorPrzelicz()</A></LI>
-<LI><A HREF="Input.jsp?method=13" TARGET="inputs"> EURnaPLN(double)</A></LI>
-<LI><A HREF="Input.jsp?method=18" TARGET="inputs"> PLNnaEUR(double)</A></LI>
-<LI><A HREF="Input.jsp?method=23" TARGET="inputs"> PLNnaUSD(double)</A></LI>
-<LI><A HREF="Input.jsp?method=28" TARGET="inputs"> USDnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=18" TARGET="inputs">POBIERZ AKTUALNY KURS WALUT</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=26" TARGET="inputs"> PLN na USD (Dolar Amerykański)</A></LI>
+<LI><A HREF="Input.jsp?method=13" TARGET="inputs"> USD na PLN (Dolar Amerykański)</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=31" TARGET="inputs"> PLN na EUR (Euro)</A></LI>
+<LI><A HREF="Input.jsp?method=21" TARGET="inputs"> EUR na PLN (Euro)</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=51" TARGET="inputs"> PLN na RUB (Ruble Rosyjskie)</A></LI>
+<LI><A HREF="Input.jsp?method=46" TARGET="inputs"> RUB na PLN (Ruble Rosyjskie)</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=41" TARGET="inputs"> PLN na GBP (Funt Brytyjski)</A></LI>
+<LI><A HREF="Input.jsp?method=71" TARGET="inputs"> GBP na PLN (Funt Brytyjski)</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=61" TARGET="inputs"> PLN na JPY (Jeny Japońskie)</A></LI>
+<LI><A HREF="Input.jsp?method=36" TARGET="inputs"> JPY na PLN (Jeny Japońskie)</A></LI>
+<BR>
+<LI><A HREF="Input.jsp?method=56" TARGET="inputs"> PLN na CHF (Frank Szwajcarski)</A></LI>
+<LI><A HREF="Input.jsp?method=66" TARGET="inputs"> CHF na PLN (Frank Szwajcarski)</A></LI>
+<BR>
 </UL>
 </BODY>
 </HTML>

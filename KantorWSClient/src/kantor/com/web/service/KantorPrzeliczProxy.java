@@ -44,16 +44,22 @@ public class KantorPrzeliczProxy implements kantor.com.web.service.KantorPrzelic
     return kantorPrzelicz;
   }
   
+  public double USDnaPLN(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.USDnaPLN(value);
+  }
+  
+  public double[] pobierz_kursy_walut() throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.pobierz_kursy_walut();
+  }
+  
   public double EURnaPLN(double value) throws java.rmi.RemoteException{
     if (kantorPrzelicz == null)
       _initKantorPrzeliczProxy();
     return kantorPrzelicz.EURnaPLN(value);
-  }
-  
-  public double PLNnaEUR(double value) throws java.rmi.RemoteException{
-    if (kantorPrzelicz == null)
-      _initKantorPrzeliczProxy();
-    return kantorPrzelicz.PLNnaEUR(value);
   }
   
   public double PLNnaUSD(double value) throws java.rmi.RemoteException{
@@ -62,10 +68,58 @@ public class KantorPrzeliczProxy implements kantor.com.web.service.KantorPrzelic
     return kantorPrzelicz.PLNnaUSD(value);
   }
   
-  public double USDnaPLN(double value) throws java.rmi.RemoteException{
+  public double PLNnaEUR(double value) throws java.rmi.RemoteException{
     if (kantorPrzelicz == null)
       _initKantorPrzeliczProxy();
-    return kantorPrzelicz.USDnaPLN(value);
+    return kantorPrzelicz.PLNnaEUR(value);
+  }
+  
+  public double JPYnaPLN(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.JPYnaPLN(value);
+  }
+  
+  public double PLNnaGBP(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.PLNnaGBP(value);
+  }
+  
+  public double RUBnaPLN(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.RUBnaPLN(value);
+  }
+  
+  public double PLNnaRUB(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.PLNnaRUB(value);
+  }
+  
+  public double PLNnaCHE(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.PLNnaCHE(value);
+  }
+  
+  public double PLNnaJPY(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.PLNnaJPY(value);
+  }
+  
+  public double CHEnaPLN(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.CHEnaPLN(value);
+  }
+  
+  public double GBPnaPLN(double value) throws java.rmi.RemoteException{
+    if (kantorPrzelicz == null)
+      _initKantorPrzeliczProxy();
+    return kantorPrzelicz.GBPnaPLN(value);
   }
   
   
