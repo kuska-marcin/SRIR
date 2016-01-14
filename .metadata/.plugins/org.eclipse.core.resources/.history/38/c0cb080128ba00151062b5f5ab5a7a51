@@ -1,0 +1,12 @@
+package kantor.com.web.service;
+
+public class TestKlasa {
+
+public double PLNnaEUR() {
+		
+		ReadXMLFile test1 = new ReadXMLFile();
+		test1.metoda2();
+		return (1);
+	}
+
+}

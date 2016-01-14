@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://service.web.com.kantor" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://service.web.com.kantor" xmlns:intf="http://service.web.com.kantor" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://service.web.com.kantor" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="USDnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="USDnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="USDnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="pobierz_kursy_walut">
+    <complexType/>
+   </element>
+   <element name="pobierz_kursy_walutResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="pobierz_kursy_walutReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="pobierz_kursy_walutResponse">
+
+      <wsdl:part element="impl:pobierz_kursy_walutResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="pobierz_kursy_walutRequest">
+
+      <wsdl:part element="impl:pobierz_kursy_walut" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="USDnaPLNRequest">
+
+      <wsdl:part element="impl:USDnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="USDnaPLNResponse">
+
+      <wsdl:part element="impl:USDnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="KantorPrzelicz">
+
+      <wsdl:operation name="USDnaPLN">
+
+         <wsdl:input message="impl:USDnaPLNRequest" name="USDnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:USDnaPLNResponse" name="USDnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="pobierz_kursy_walut">
+
+         <wsdl:input message="impl:pobierz_kursy_walutRequest" name="pobierz_kursy_walutRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:pobierz_kursy_walutResponse" name="pobierz_kursy_walutResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="KantorPrzeliczSoapBinding" type="impl:KantorPrzelicz">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="USDnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="USDnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="USDnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="pobierz_kursy_walut">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="pobierz_kursy_walutRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="pobierz_kursy_walutResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="KantorPrzeliczService">
+
+      <wsdl:port binding="impl:KantorPrzeliczSoapBinding" name="KantorPrzelicz">
+
+         <wsdlsoap:address location="http://localhost:8080/KantorWS/services/KantorPrzelicz"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

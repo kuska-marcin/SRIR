@@ -1,0 +1,11 @@
+package kantor.com.web.service;
+
+public class KantorPrzelicz {
+	public double PLNnaEUR(double value) {
+		return (value/4.2);
+	}
+ 
+	public double EURnaPLN(double value) {
+		return (value*4.3);
+	}
+}

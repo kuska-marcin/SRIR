@@ -1,0 +1,104 @@
+package kantor.com.web.service;
+
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+
+public class KantorPrzelicz {
+	
+	double[] TablicaWalut = new double[35]; 
+ 
+	public double USDnaPLN(double value) {
+		KantorPrzelicz BazaKursow = new KantorPrzelicz();
+		double[] TablicaKursow = new double[35];
+		TablicaKursow = BazaKursow.PobierzKursy();
+		double wynik = (value/TablicaKursow[7]);		
+		double pi=0;
+		pi = wynik;
+        pi *= 100; // pi = pi * 100;
+        pi = Math.round(pi);
+        pi /= 100; // pi = pi / 100;	
+		return (pi);
+	}
+	
+	public double PLNnaUSD(double value) {
+		return (value);
+	}
+ 
+	public double USD0naPLN(double value) {
+		return (value);
+	}
+	
+	
+	public double[] PobierzKursy() {
+		
+		double[] tablic = new double[35];
+		
+		try {
+	    
+	    Date dNow = new Date( );
+	    SimpleDateFormat ft = new SimpleDateFormat ("yyMMdd");
+	    System.out.println("Current Date: " + ft.format(dNow));	
+	       	
+	    String fileURL = "http://www.nbp.pl/kursy/xml/"+"a007z"+ft.format(dNow)+".xml";
+	    String saveDir = "C:/Users/kuska/Desktop/Michalik/eclipse-jee-mars-1-win32-x86_64/eclipse";
+	    //String saveDir = "C:/Users/kuska/Desktop/Michalik/KW/KantorWS";
+	        try {
+	            HttpDownloadUtility.downloadFile(fileURL, saveDir);
+	        } catch (IOException ex) {
+	            ex.printStackTrace();
+	        }  	  	
+
+	    File fXmlFile = new File("a007z160113.xml");
+		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+		Document doc = dBuilder.parse(fXmlFile);
+				
+		doc.getDocumentElement().normalize();
+
+		System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
+				
+		NodeList nList = doc.getElementsByTagName("pozycja");
+				
+		System.out.println("----------------------------"+nList.getLength());
+		
+		for (int temp = 0; temp < nList.getLength(); temp++) {
+
+			Node nNode = nList.item(temp);	
+			
+			System.out.println("\nCurrent Element :" + nNode.getNodeName()/*+temp*/);
+					
+			if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+
+				Element eElement = (Element) nNode;
+				
+				//System.out.println("nazwa_waluty : " + eElement.getElementsByTagName("nazwa_waluty").item(0).getTextContent());
+				//System.out.println("kod_waluty : " + eElement.getElementsByTagName("kod_waluty").item(0).getTextContent());
+				//System.out.println("kurs_sredni : " + eElement.getElementsByTagName("kurs_sredni").item(0).getTextContent());
+				
+				String Tymczasowy = eElement.getElementsByTagName("kurs_sredni").item(0).getTextContent().replace(",", ".");
+				double doubleTymczasowy = Double.parseDouble(Tymczasowy);
+				TablicaWalut[temp] = doubleTymczasowy;
+				tablic[temp]=doubleTymczasowy;
+				//System.out.println(TablicaWalut[temp]);
+			}	
+		}
+				
+	    } 
+		catch (Exception e) {
+		e.printStackTrace();
+	    } 
+		return tablic;
+}
+	
+	
+	
+}

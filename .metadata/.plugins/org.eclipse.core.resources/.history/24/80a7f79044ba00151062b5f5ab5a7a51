@@ -1,0 +1,26 @@
+<%@page contentType="text/html;charset=UTF-8"%><HTML>
+<HEAD>
+<TITLE>WALUTY</TITLE>
+</HEAD>
+<BODY>
+<H1>WYBIERZ WALUTE DO PRZELICZENIA</H1>
+<UL>
+<LI><A HREF="Input.jsp?method=2" TARGET="inputs"> getEndpoint()</A></LI>
+<LI><A HREF="Input.jsp?method=5" TARGET="inputs"> setEndpoint(java.lang.String)</A></LI>
+<LI><A HREF="Input.jsp?method=10" TARGET="inputs"> getKantorPrzelicz()</A></LI>
+<LI><A HREF="Input.jsp?method=13" TARGET="inputs"> USDnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=18" TARGET="inputs"> pobierz_kursy_walut()</A></LI>
+<LI><A HREF="Input.jsp?method=21" TARGET="inputs"> EURnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=26" TARGET="inputs"> PLNnaUSD(double)</A></LI>
+<LI><A HREF="Input.jsp?method=31" TARGET="inputs"> PLNnaEUR(double)</A></LI>
+<LI><A HREF="Input.jsp?method=36" TARGET="inputs"> JPYnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=41" TARGET="inputs"> PLNnaGBP(double)</A></LI>
+<LI><A HREF="Input.jsp?method=46" TARGET="inputs"> RUBnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=51" TARGET="inputs"> PLNnaRUB(double)</A></LI>
+<LI><A HREF="Input.jsp?method=56" TARGET="inputs"> PLNnaCHE(double)</A></LI>
+<LI><A HREF="Input.jsp?method=61" TARGET="inputs"> PLNnaJPY(double)</A></LI>
+<LI><A HREF="Input.jsp?method=66" TARGET="inputs"> CHEnaPLN(double)</A></LI>
+<LI><A HREF="Input.jsp?method=71" TARGET="inputs"> GBPnaPLN(double)</A></LI>
+</UL>
+</BODY>
+</HTML>

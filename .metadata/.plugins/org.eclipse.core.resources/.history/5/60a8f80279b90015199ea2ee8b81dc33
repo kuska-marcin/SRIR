@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="KantorWS">
+        <property name="context-root" value="KantorWS"/>
+        <property name="java-output-path" value="/KantorWS/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://service.web.com.kantor" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://service.web.com.kantor" xmlns:intf="http://service.web.com.kantor" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://service.web.com.kantor" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="EURnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="EURnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="EURnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaUSD">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="PLNnaUSDResponse">
+    <complexType>
+     <sequence>
+      <element name="PLNnaUSDReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="USDnaPLN">
+    <complexType>
+     <sequence>
+      <element name="value" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="USDnaPLNResponse">
+    <complexType>
+     <sequence>
+      <element name="USDnaPLNReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="Uruchom">
+    <complexType/>
+   </element>
+   <element name="UruchomResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="UruchomReturn" type="xsd:double"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="EURnaPLNResponse">
+
+      <wsdl:part element="impl:EURnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="UruchomRequest">
+
+      <wsdl:part element="impl:Uruchom" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaUSDRequest">
+
+      <wsdl:part element="impl:PLNnaUSD" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="PLNnaUSDResponse">
+
+      <wsdl:part element="impl:PLNnaUSDResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="UruchomResponse">
+
+      <wsdl:part element="impl:UruchomResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="USDnaPLNRequest">
+
+      <wsdl:part element="impl:USDnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="USDnaPLNResponse">
+
+      <wsdl:part element="impl:USDnaPLNResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="EURnaPLNRequest">
+
+      <wsdl:part element="impl:EURnaPLN" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="KantorPrzelicz">
+
+      <wsdl:operation name="EURnaPLN">
+
+         <wsdl:input message="impl:EURnaPLNRequest" name="EURnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:EURnaPLNResponse" name="EURnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaUSD">
+
+         <wsdl:input message="impl:PLNnaUSDRequest" name="PLNnaUSDRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:PLNnaUSDResponse" name="PLNnaUSDResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="USDnaPLN">
+
+         <wsdl:input message="impl:USDnaPLNRequest" name="USDnaPLNRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:USDnaPLNResponse" name="USDnaPLNResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="Uruchom">
+
+         <wsdl:input message="impl:UruchomRequest" name="UruchomRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:UruchomResponse" name="UruchomResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="KantorPrzeliczSoapBinding" type="impl:KantorPrzelicz">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="EURnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="EURnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="EURnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="PLNnaUSD">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="PLNnaUSDRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="PLNnaUSDResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="USDnaPLN">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="USDnaPLNRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="USDnaPLNResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="Uruchom">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="UruchomRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="UruchomResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="KantorPrzeliczService">
+
+      <wsdl:port binding="impl:KantorPrzeliczSoapBinding" name="KantorPrzelicz">
+
+         <wsdlsoap:address location="http://localhost:8080/KantorWS/services/KantorPrzelicz"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>
