@@ -1,0 +1,136 @@
+.TH "kantor.com.web.service.KursyPokazServiceLocator" 3 "Thu Jan 14 2016" "KalkulatorWymianyWalut" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+kantor.com.web.service.KursyPokazServiceLocator \- 
+.SH SYNOPSIS
+.br
+.PP
+.PP
+Inherits Service, and \fBkantor\&.com\&.web\&.service\&.KursyPokazService\fP\&.
+.SS "Public Member Functions"
+
+.in +1c
+.ti -1c
+.RI "\fBKursyPokazServiceLocator\fP ()"
+.br
+.ti -1c
+.RI "\fBKursyPokazServiceLocator\fP (org\&.apache\&.axis\&.EngineConfiguration config)"
+.br
+.ti -1c
+.RI "\fBKursyPokazServiceLocator\fP (java\&.lang\&.String wsdlLoc, javax\&.xml\&.namespace\&.QName sName)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "java\&.lang\&.String \fBgetKursyPokazAddress\fP ()"
+.br
+.ti -1c
+.RI "java\&.lang\&.String \fBgetKursyPokazWSDDServiceName\fP ()"
+.br
+.ti -1c
+.RI "void \fBsetKursyPokazWSDDServiceName\fP (java\&.lang\&.String name)"
+.br
+.ti -1c
+.RI "\fBkantor\&.com\&.web\&.service\&.KursyPokaz\fP \fBgetKursyPokaz\fP ()  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "\fBkantor\&.com\&.web\&.service\&.KursyPokaz\fP \fBgetKursyPokaz\fP (java\&.net\&.URL portAddress)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "void \fBsetKursyPokazEndpointAddress\fP (java\&.lang\&.String address)"
+.br
+.ti -1c
+.RI "java\&.rmi\&.Remote \fBgetPort\fP (Class serviceEndpointInterface)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "java\&.rmi\&.Remote \fBgetPort\fP (javax\&.xml\&.namespace\&.QName portName, Class serviceEndpointInterface)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "namespace::QName \fBgetServiceName\fP ()"
+.br
+.ti -1c
+.RI "java\&.util\&.Iterator \fBgetPorts\fP ()"
+.br
+.ti -1c
+.RI "void \fBsetEndpointAddress\fP (java\&.lang\&.String portName, java\&.lang\&.String address)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.ti -1c
+.RI "void \fBsetEndpointAddress\fP (javax\&.xml\&.namespace\&.QName portName, java\&.lang\&.String address)  throws javax\&.xml\&.rpc\&.ServiceException "
+.br
+.in -1c
+.SH "Detailed Description"
+.PP 
+Definition at line 10 of file KursyPokazServiceLocator\&.java\&.
+.SH "Constructor & Destructor Documentation"
+.PP 
+.SS "kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.KursyPokazServiceLocator ()"
+
+.PP
+Definition at line 12 of file KursyPokazServiceLocator\&.java\&.
+.SS "kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.KursyPokazServiceLocator (org\&.apache\&.axis\&.EngineConfigurationconfig)"
+
+.PP
+Definition at line 16 of file KursyPokazServiceLocator\&.java\&.
+.SS "kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.KursyPokazServiceLocator (java\&.lang\&.StringwsdlLoc, javax\&.xml\&.namespace\&.QNamesName) throws javax\&.xml\&.rpc\&.ServiceException"
+
+.PP
+Definition at line 20 of file KursyPokazServiceLocator\&.java\&.
+.SH "Member Function Documentation"
+.PP 
+.SS "\fBkantor\&.com\&.web\&.service\&.KursyPokaz\fP kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getKursyPokaz () throws javax\&.xml\&.rpc\&.ServiceException"
+
+.PP
+Implements \fBkantor\&.com\&.web\&.service\&.KursyPokazService\fP\&.
+.PP
+Definition at line 42 of file KursyPokazServiceLocator\&.java\&.
+.SS "\fBkantor\&.com\&.web\&.service\&.KursyPokaz\fP kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getKursyPokaz (java\&.net\&.URLportAddress) throws javax\&.xml\&.rpc\&.ServiceException"
+
+.PP
+Implements \fBkantor\&.com\&.web\&.service\&.KursyPokazService\fP\&.
+.PP
+Definition at line 53 of file KursyPokazServiceLocator\&.java\&.
+.SS "java\&.lang\&.String kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getKursyPokazAddress ()"
+
+.PP
+Implements \fBkantor\&.com\&.web\&.service\&.KursyPokazService\fP\&.
+.PP
+Definition at line 27 of file KursyPokazServiceLocator\&.java\&.
+.SS "java\&.lang\&.String kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getKursyPokazWSDDServiceName ()"
+
+.PP
+Definition at line 34 of file KursyPokazServiceLocator\&.java\&.
+.SS "java\&.rmi\&.Remote kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getPort (ClassserviceEndpointInterface) throws javax\&.xml\&.rpc\&.ServiceException"
+For the given interface, get the stub implementation\&. If this service has no port for the given interface, then ServiceException is thrown\&. 
+.PP
+Definition at line 73 of file KursyPokazServiceLocator\&.java\&.
+.SS "java\&.rmi\&.Remote kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getPort (javax\&.xml\&.namespace\&.QNameportName, ClassserviceEndpointInterface) throws javax\&.xml\&.rpc\&.ServiceException"
+For the given interface, get the stub implementation\&. If this service has no port for the given interface, then ServiceException is thrown\&. 
+.PP
+Definition at line 92 of file KursyPokazServiceLocator\&.java\&.
+.SS "java\&.util\&.Iterator kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getPorts ()"
+
+.PP
+Definition at line 113 of file KursyPokazServiceLocator\&.java\&.
+.SS "namespace \&.QName kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.getServiceName ()"
+
+.PP
+Definition at line 107 of file KursyPokazServiceLocator\&.java\&.
+.SS "void kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.setEndpointAddress (java\&.lang\&.StringportName, java\&.lang\&.Stringaddress) throws javax\&.xml\&.rpc\&.ServiceException"
+Set the endpoint address for the specified port name\&. 
+.PP
+Definition at line 124 of file KursyPokazServiceLocator\&.java\&.
+.SS "void kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.setEndpointAddress (javax\&.xml\&.namespace\&.QNameportName, java\&.lang\&.Stringaddress) throws javax\&.xml\&.rpc\&.ServiceException"
+Set the endpoint address for the specified port name\&. 
+.PP
+Definition at line 138 of file KursyPokazServiceLocator\&.java\&.
+.SS "void kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.setKursyPokazEndpointAddress (java\&.lang\&.Stringaddress)"
+
+.PP
+Definition at line 64 of file KursyPokazServiceLocator\&.java\&.
+.SS "void kantor\&.com\&.web\&.service\&.KursyPokazServiceLocator\&.setKursyPokazWSDDServiceName (java\&.lang\&.Stringname)"
+
+.PP
+Definition at line 38 of file KursyPokazServiceLocator\&.java\&.
+
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for KalkulatorWymianyWalut from the source code\&.

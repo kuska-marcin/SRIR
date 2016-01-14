@@ -1,0 +1,700 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor"><param name="Local" value="namespacekantor.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="Local" value="namespacekantor_1_1com.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="web"><param name="Local" value="namespacekantor_1_1com_1_1web.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="service"><param name="Local" value="namespacekantor_1_1com_1_1web_1_1service.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor"><param name="Local" value="namespacekantor.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="Local" value="namespacekantor_1_1com.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="web"><param name="Local" value="namespacekantor_1_1com_1_1web.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="service"><param name="Local" value="namespacekantor_1_1com_1_1web_1_1service.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HttpDownloadUtility"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_http_download_utility.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a11a96bae697b462d20db8fbc8b0bdbd4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a2a4e73b8a9302c1747ba75be35655986"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a3e40e9d8fb68c3edc8d0301b2fe524b6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#afcaaed0493d9da86ff7eb4d6fb3a7e6d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a11fcb67da28afd357d34f545754a9738"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa15f2063604ca099ee2135bdfd3ad0a3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a8fa481638a7cb75bb43f49f824054fe8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa8471360bfae3c5acb208c2724971c8b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a2034d7a78dc86c2fbeb9c104c5ff04f1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a4ee32718c9f24b212f904e46fbb734bf"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a580df822a271928481e22b7c7d79bfec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a81e31cce00a952fc8c0781291b4023af"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa2add2cb979600a2b325e4a9f91b8e7f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a18431c0ee3b7a7765911cf055ff10cea"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a7fa719bb81dec0293285538a0e421580"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a7c1eb7f1917e3f6f69b5d4c20f18a764"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a4634c8f62799df6b19a7724abcee8e05"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#ad6db21ad3720cdfaf5d27db59412c630"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a23dc3e9c5f8aaeb4d50a1e8b6f51677b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a3c33e0adf664558840bd2e1b1d9da37d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczAddress"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a6e8a852eedd0efb826c9b7fba061e577"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a1daad1d7591d70469d27d2a17a23bbb7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a86b910ad4c4d10b13597322aac38493c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a7803c401349057b4dc9464bee871fef9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a3844af66601dcdb811a31551ce63df11"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#afc2877ff5ca919546dea693a43df2d94"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#ac494431b6e486df99db8107de4eca1a3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a66dc7bbfd82ca24ca18cffd72885ba6d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a4aa2065a153ea8e2e1ccab1894bbbc37"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a6d8e3e4baf75c16aeac993e9d4998839"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPorts"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#ab37fd7796040d007ea741ded07b244db"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a3b49409dee758204c5dfc98987cb62de"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a64ea44a37ba21261465cd6c890c41c81"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#af022bb28eeb7193ad2a6f5db9abcef45"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setKantorPrzeliczEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a37bae52803b2f5b9d2dc94ac3567359c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setKantorPrzeliczWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a66de37b1b0144707a5f1622624de454f"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a6c1f74a1f7117ce0ea705f95b1379c48"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a184f971a2447a07891dc98a63c2e34f8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a7bc4e56824226c3446401756be37657b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a95c3905cd703617b5c0355134546befc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="createCall"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a48bdf944c0e7affdc54748a99e024768"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1ca4bcdbf6b3301c515be2ddb81a7689"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1189d528b2a2bc30b1d0dbd4cb3de879"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1640d46443427ccc4ac2e9fc78fbfdbc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a998215c43de5fc4a9f9cb3300347761a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a889d3a09409acf8888638c2dce6ea86f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#ac8cc82abe2de05d4ed53e0c44faf0669"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a642b141aac243d540b987f5269297354"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a9ee2c58b4dc1c11c5b434d4dcc391f9d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a62a18092ec91b3391244ff5e678186ec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a3ebaba4acb670e918a73250d4111afcf"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a808bb2077397435895bf2fd9bf38d6c7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a16867679e15bceab605c16b1b20ff89d"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a758e416bdc0cdec7848747c2ceb5818e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ae6cdeaadabceecc54919a6f1bd95324c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ac9c9cc06f2cb753581fc755c190c87d2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#aa16bd4e29f240c450407162dea41a319"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a42ed01fce4a879671d1eaf934aa5f04f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a6d65d3963ffa4efb031cca95e183a296"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ac1c39363de8b4da0827bf5f9f2014bed"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a52629df59f3ebd199c6080496a755fda"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a80ada94218bc9a193387e22b5a6dce0a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a6a121fca243445158448a43bbd350403"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#aeee39cf6bfa57a840b51ad1a2b28ecce"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#adfdcc96d8e32882d730e05cfc8c7c263"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazAddress"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#ac0c33b447ed2b6d5824b6856f24891dd"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a0d208d2392725d8949b5a5fb10158713"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a1f352a89dc5535ba4625459762eb5306"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#aab06f25cc581463776c40370cbd8809b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7b8fce52b2531330aa94743b2fd80518"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7752a187f820619249a8ef1b6d54867d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#acd5a6dea40341b291afd110e9fa0d151"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a587b83681f721371d96d7a3497aab85c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a342d4038c3df0a6175856234f1748960"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a848b4ee35d42a77308b8af2dfdfac21e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getPorts"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a044fa9139cae5b81e520a13c15384634"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#ad766e195553030282a79619d4fe950d1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7709d19ef1144105fa1d6006c2101fc5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#aa25f670cb43f184a2d46f4ea1e9b96cb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setKursyPokazEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a4ff85e81ef5893648efc4db2ea62ee30"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setKursyPokazWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#acd4085212ac8086417b6994413f2f5e6"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aec58f518269c22a2c0c006966e07bace"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a5d6d3b8257a8f09803deb90b3c6b79c0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aac01c798f0276a9eb2132a01e5bb1615"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="createCall"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#abf9955a7397853953430fbbba1ecd88f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a3e89646ddaed6b605071d1f6d186e66e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a6dd0efcbf660c065637f49570889f41d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a2f975ee29635758cd503316c16ba179c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aa8b296ac90b4ab4c880652527c013db2"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.HttpDownloadUtility"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_http_download_utility.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Remote"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Service"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Service"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Stub"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor.com.web.service.KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Michalik"><param name="Local" value="dir_69a24a776aef7e368373e0fac5e6500a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="KW"><param name="Local" value="dir_9d505ec9976cd2950caeb4e63d52b38e.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="html"><param name="Local" value="dir_baf2fa7478a362e20579e96ab4c30b6a.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="search"><param name="Local" value="dir_1fa5d8faa8f094be29293a286fbea8a9.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_0.js"><param name="Local" value="all__0_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__0_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_1.js"><param name="Local" value="all__1_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__1_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_2.js"><param name="Local" value="all__2_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__2_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_3.js"><param name="Local" value="all__3_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__3_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_4.js"><param name="Local" value="all__4_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__4_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_5.js"><param name="Local" value="all__5_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__5_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_6.js"><param name="Local" value="all__6_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__6_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_7.js"><param name="Local" value="all__7_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__7_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_8.js"><param name="Local" value="all__8_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__8_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_9.js"><param name="Local" value="all__9_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__9_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="all_a.js"><param name="Local" value="all__a_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="all__a_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="classes_0.js"><param name="Local" value="classes__0_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="classes__0_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="classes_1.js"><param name="Local" value="classes__1_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="classes__1_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="files_0.js"><param name="Local" value="files__0_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="files__0_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="files_1.js"><param name="Local" value="files__1_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="files__1_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_0.js"><param name="Local" value="functions__0_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__0_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_1.js"><param name="Local" value="functions__1_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__1_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_2.js"><param name="Local" value="functions__2_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__2_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_3.js"><param name="Local" value="functions__3_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__3_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_4.js"><param name="Local" value="functions__4_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__4_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_5.js"><param name="Local" value="functions__5_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__5_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_6.js"><param name="Local" value="functions__6_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__6_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_7.js"><param name="Local" value="functions__7_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__7_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_8.js"><param name="Local" value="functions__8_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__8_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="functions_9.js"><param name="Local" value="functions__9_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="functions__9_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="namespaces_0.js"><param name="Local" value="namespaces__0_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchData"><param name="Local" value="namespaces__0_8js.html#ad01a7523f103d6242ef9b0451861231e"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="search.js"><param name="Local" value="search_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="convertToId"><param name="Local" value="search_8js.html#a196a29bd5a5ee7cd5b485e0753a49e57"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="createResults"><param name="Local" value="search_8js.html#a6b2c651120de3ed1dcf0d85341d51895"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getXPos"><param name="Local" value="search_8js.html#a76d24aea0009f892f8ccc31d941c0a2b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="getYPos"><param name="Local" value="search_8js.html#a8d7b405228661d7b6216b6925d2b8a69"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SearchBox"><param name="Local" value="search_8js.html#a52066106482f8136aa9e0ec859e8188f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SearchResults"><param name="Local" value="search_8js.html#a9189b9f7a32b6bc78240f40348f7fe03"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setClassAttr"><param name="Local" value="search_8js.html#a499422fc054a5278ae32801ec0082c56"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="setKeyActions"><param name="Local" value="search_8js.html#a98192fa2929bb8e4b0a890a4909ab9b2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="indexSectionNames"><param name="Local" value="search_8js.html#a77149ceed055c6c6ce40973b5bdc19ad"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="indexSectionsWithContent"><param name="Local" value="search_8js.html#a6250af3c9b54dee6efc5f55f40c78126"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dynsections.js"><param name="Local" value="dynsections_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="toggleFolder"><param name="Local" value="dynsections_8js.html#af244da4527af2d845dca04f5656376cd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="toggleInherit"><param name="Local" value="dynsections_8js.html#ac057b640b17ff32af11ced151c9305b4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="toggleLevel"><param name="Local" value="dynsections_8js.html#a19f577cc1ba571396a85bb1f48bf4df2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="toggleVisibility"><param name="Local" value="dynsections_8js.html#a1922c462474df7dfd18741c961d59a25"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="updateStripes"><param name="Local" value="dynsections_8js.html#a8f7493ad859d4fbf2523917511ee7177"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="jquery.js"><param name="Local" value="jquery_8js.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="a0"><param name="Local" value="jquery_8js.html#ab5b2b69c05d6a629ddd1deebef38735e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aK"><param name="Local" value="jquery_8js.html#a7d370833f2145fc5f6c371e98d754eb4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="at"><param name="Local" value="jquery_8js.html#a31b1c836ab707421c59d8f31b49a8f68"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="jquery_8js.html#a2fa551895933fae935a0a6b87282241d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="bh"><param name="Local" value="jquery_8js.html#a6fc9115e5c9c910cae480abf0a8c7ae3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="each"><param name="Local" value="jquery_8js.html#a871ff39db627c54c710a3e9909b8234c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="each"><param name="Local" value="jquery_8js.html#a32214c73aa06d5951f5321466df68ad0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="extend"><param name="Local" value="jquery_8js.html#ad0188a1a0e382f892522cfb7dafcc937"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="extend"><param name="Local" value="jquery_8js.html#aa6142183da6ef351faf36761e8a8835b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#a9db6d45a025ad692282fe23e69eeba43"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#a30d3d2cd5b567c9f31b2aa30b9cb3bb8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#a2c54bd8ed7482e89d19331ba61fe221c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#a42cbfadee2b4749e8f699ea8d745a0e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#ab5582cce20b35070b73869356a852365"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="if"><param name="Local" value="jquery_8js.html#ad9fda9e3432e66926c2578b06f13525f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="jquery_8js.html#a2335e57f79b6acfb6de59c235dc8a83e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="jquery_8js.html#a4c3eadaa5164016d2c340d495fc6e55e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aD"><param name="Local" value="jquery_8js.html#ad223f5fba68c41c1236671ac5c5b0fcb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ad"><param name="Local" value="jquery_8js.html#a96709ee617c39629621377849b5e0a7f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aM"><param name="Local" value="jquery_8js.html#a8cc6111a5def3ea889157d13fb9a9672"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ap"><param name="Local" value="jquery_8js.html#a6ddf393cc7f9a8828e197bb0d9916c44"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aQ"><param name="Local" value="jquery_8js.html#a79eb58dc6cdf0aef563d5dc1ded27df5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="au"><param name="Local" value="jquery_8js.html#a4fd8ddfab07c8d7c7cae0ab0e052cad3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aZ"><param name="Local" value="jquery_8js.html#ac87125cdee1a5e57da4ef619af49bc7d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="jquery_8js.html#aa4026ad5544b958e54ce5e106fa1c805"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="bb"><param name="Local" value="jquery_8js.html#a1d6558865876e1c8cca029fce41a4bdb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="bq"><param name="Local" value="jquery_8js.html#af6ee77c71b2c89bdb365145ac5ad1219"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="bs"><param name="Local" value="jquery_8js.html#ae77642f8ef73fb9c20c2a737d956acda"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="jquery_8js.html#abce695e0af988ece0826d9ad59b8160d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="css"><param name="Local" value="jquery_8js.html#a89ad527fcd82c01ebb587332f5b4fcd4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="curCSS"><param name="Local" value="jquery_8js.html#a88b21f8ba3af86d6981b1da520ece33b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="else"><param name="Local" value="jquery_8js.html#a0544c3fe466e421738dae463968b70ba"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="jQuery"><param name="Local" value="jquery_8js.html#aa676d9980e4aff2d9210b4c8e0e1dad9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="k"><param name="Local" value="jquery_8js.html#ab26645c014aa005ecedef329ecf58c99"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="L"><param name="Local" value="jquery_8js.html#a38ee4c0b5f4fe2a18d0c783af540d253"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="prototype"><param name="Local" value="jquery_8js.html#aa3ec85d56639a2571aeff4d7e06f1190"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="V"><param name="Local" value="jquery_8js.html#a8b88915d3d3a06e98248a89807b077fa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="window"><param name="Local" value="jquery_8js.html#a04a8a2bbfa9c15500892b8e5033d625b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Z"><param name="Local" value="jquery_8js.html#adc18d83abfd9f87d396e8fd6b6ac0fe1"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorWS"><param name="Local" value="dir_0fad8357a2f415446af913a45730d3f7.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_dcd19cae396e13724aed60bb88839457.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor"><param name="Local" value="dir_a83688c78c056b21b11a0fa8d6a205b8.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="Local" value="dir_d64612af5d17995eb93000f75acbe951.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="web"><param name="Local" value="dir_d937d297473fe862fb3f386ea19863ca.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="service"><param name="Local" value="dir_fb85a79e4e32ae12c38a262fb4ab0bcf.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="HttpDownloadUtility.java"><param name="Local" value="_http_download_utility_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="HttpDownloadUtility"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_http_download_utility.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzelicz.java"><param name="Local" value="src_2kantor_2com_2web_2service_2_kantor_przelicz_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokaz.java"><param name="Local" value="src_2kantor_2com_2web_2service_2_kursy_pokaz_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a758e416bdc0cdec7848747c2ceb5818e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    </UL>
+                  </UL>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorWSClient"><param name="Local" value="dir_d9435d23ceff293a7ffa5e947118316c.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_d069f7a87f6442679a3e105d06f9b67a.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="kantor"><param name="Local" value="dir_dd2a8ecfca80e861f0db78af0189f02b.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="Local" value="dir_70281dcdd9a30630c2990124725f0abe.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="web"><param name="Local" value="dir_362e5c38d347ef2d27262b2bd99d77d9.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="service"><param name="Local" value="dir_99e98be7510e665d832f93111b64c73a.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzelicz.java"><param name="Local" value="lient_2src_2kantor_2com_2web_2service_2_kantor_przelicz_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acff8492d50d84cf718bca4c8b499d36a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#af204b150c62165c836a1a0afd10c16b7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a64b58db5e686a08b4b1af648eb781a1c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e6f2e71874e1dd7b520d2da4427bae8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#afa953802446690d409e1df5361729fc0"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#acfc0cd42fb64c5f26d468245cf0fe3b6"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad0840077798f333f948772590d1a402a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a7706e3a08c1b8ce3775506c4530d1bf7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad68cbeb18f18cd02c3b4b571da0e06fa"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#aea3a5dd74cf10d0c9ce1bf04b94078c8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a9e2610a2cdb76ea7e2551786f3c0736e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#a11c3958baf84a3a96dbc9290890b6c4e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz.html#ad263683559db773d4ccb28e14090824f"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy.java"><param name="Local" value="_kantor_przelicz_proxy_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a11a96bae697b462d20db8fbc8b0bdbd4"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a2a4e73b8a9302c1747ba75be35655986"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a3e40e9d8fb68c3edc8d0301b2fe524b6"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#afcaaed0493d9da86ff7eb4d6fb3a7e6d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a11fcb67da28afd357d34f545754a9738"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa15f2063604ca099ee2135bdfd3ad0a3"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a8fa481638a7cb75bb43f49f824054fe8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa8471360bfae3c5acb208c2724971c8b"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a2034d7a78dc86c2fbeb9c104c5ff04f1"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a4ee32718c9f24b212f904e46fbb734bf"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a580df822a271928481e22b7c7d79bfec"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a81e31cce00a952fc8c0781291b4023af"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#aa2add2cb979600a2b325e4a9f91b8e7f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a18431c0ee3b7a7765911cf055ff10cea"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a7fa719bb81dec0293285538a0e421580"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a7c1eb7f1917e3f6f69b5d4c20f18a764"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#a4634c8f62799df6b19a7724abcee8e05"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_proxy.html#ad6db21ad3720cdfaf5d27db59412c630"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczService.java"><param name="Local" value="_kantor_przelicz_service_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a23dc3e9c5f8aaeb4d50a1e8b6f51677b"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a3c33e0adf664558840bd2e1b1d9da37d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczAddress"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service.html#a6e8a852eedd0efb826c9b7fba061e577"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator.java"><param name="Local" value="_kantor_przelicz_service_locator_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a1daad1d7591d70469d27d2a17a23bbb7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a86b910ad4c4d10b13597322aac38493c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a7803c401349057b4dc9464bee871fef9"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a3844af66601dcdb811a31551ce63df11"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzelicz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#afc2877ff5ca919546dea693a43df2d94"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#ac494431b6e486df99db8107de4eca1a3"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKantorPrzeliczWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a66dc7bbfd82ca24ca18cffd72885ba6d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a4aa2065a153ea8e2e1ccab1894bbbc37"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a6d8e3e4baf75c16aeac993e9d4998839"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPorts"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#ab37fd7796040d007ea741ded07b244db"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a3b49409dee758204c5dfc98987cb62de"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a64ea44a37ba21261465cd6c890c41c81"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#af022bb28eeb7193ad2a6f5db9abcef45"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setKantorPrzeliczEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a37bae52803b2f5b9d2dc94ac3567359c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setKantorPrzeliczWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_service_locator.html#a66de37b1b0144707a5f1622624de454f"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub.java"><param name="Local" value="_kantor_przelicz_soap_binding_stub_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a6c1f74a1f7117ce0ea705f95b1379c48"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a184f971a2447a07891dc98a63c2e34f8"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KantorPrzeliczSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a7bc4e56824226c3446401756be37657b"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="CHEnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a95c3905cd703617b5c0355134546befc"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="createCall"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a48bdf944c0e7affdc54748a99e024768"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1ca4bcdbf6b3301c515be2ddb81a7689"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="GBPnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1189d528b2a2bc30b1d0dbd4cb3de879"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="JPYnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a1640d46443427ccc4ac2e9fc78fbfdbc"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaCHE"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a998215c43de5fc4a9f9cb3300347761a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a889d3a09409acf8888638c2dce6ea86f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaGBP"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#ac8cc82abe2de05d4ed53e0c44faf0669"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaJPY"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a642b141aac243d540b987f5269297354"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaRUB"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a9ee2c58b4dc1c11c5b434d4dcc391f9d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a62a18092ec91b3391244ff5e678186ec"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="pobierz_kursy_walut"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a3ebaba4acb670e918a73250d4111afcf"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="RUBnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a808bb2077397435895bf2fd9bf38d6c7"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kantor_przelicz_soap_binding_stub.html#a16867679e15bceab605c16b1b20ff89d"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokaz.java"><param name="Local" value="lient_2src_2kantor_2com_2web_2service_2_kursy_pokaz_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a31eef9def09b0841facda085644ede65"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a758e416bdc0cdec7848747c2ceb5818e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a26efb7c3127847ac0bd6adf865c4b891"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz.html#a2c8884d959ed13948edc408b94083b95"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy.java"><param name="Local" value="_kursy_pokaz_proxy_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ae6cdeaadabceecc54919a6f1bd95324c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazProxy"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ac9c9cc06f2cb753581fc755c190c87d2"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#aa16bd4e29f240c450407162dea41a319"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a42ed01fce4a879671d1eaf934aa5f04f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a6d65d3963ffa4efb031cca95e183a296"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#ac1c39363de8b4da0827bf5f9f2014bed"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a52629df59f3ebd199c6080496a755fda"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpoint"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a80ada94218bc9a193387e22b5a6dce0a"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_proxy.html#a6a121fca243445158448a43bbd350403"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazService.java"><param name="Local" value="_kursy_pokaz_service_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazService"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#aeee39cf6bfa57a840b51ad1a2b28ecce"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#adfdcc96d8e32882d730e05cfc8c7c263"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazAddress"><param name="Local" value="interfacekantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service.html#ac0c33b447ed2b6d5824b6856f24891dd"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator.java"><param name="Local" value="_kursy_pokaz_service_locator_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a0d208d2392725d8949b5a5fb10158713"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a1f352a89dc5535ba4625459762eb5306"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazServiceLocator"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#aab06f25cc581463776c40370cbd8809b"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7b8fce52b2531330aa94743b2fd80518"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokaz"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7752a187f820619249a8ef1b6d54867d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#acd5a6dea40341b291afd110e9fa0d151"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getKursyPokazWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a587b83681f721371d96d7a3497aab85c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a342d4038c3df0a6175856234f1748960"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPort"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a848b4ee35d42a77308b8af2dfdfac21e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getPorts"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a044fa9139cae5b81e520a13c15384634"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="getServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#ad766e195553030282a79619d4fe950d1"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a7709d19ef1144105fa1d6006c2101fc5"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#aa25f670cb43f184a2d46f4ea1e9b96cb"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setKursyPokazEndpointAddress"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#a4ff85e81ef5893648efc4db2ea62ee30"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="setKursyPokazWSDDServiceName"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_service_locator.html#acd4085212ac8086417b6994413f2f5e6"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub.java"><param name="Local" value="_kursy_pokaz_soap_binding_stub_8java.html"><param name="ImageNumber" value="11"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aec58f518269c22a2c0c006966e07bace"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a5d6d3b8257a8f09803deb90b3c6b79c0"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="KursyPokazSoapBindingStub"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aac01c798f0276a9eb2132a01e5bb1615"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="createCall"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#abf9955a7397853953430fbbba1ecd88f"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="EURnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a3e89646ddaed6b605071d1f6d186e66e"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaEUR"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a6dd0efcbf660c065637f49570889f41d"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="PLNnaUSD"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#a2f975ee29635758cd503316c16ba179c"><param name="ImageNumber" value="11"></OBJECT>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="USDnaPLN"><param name="Local" value="classkantor_1_1com_1_1web_1_1service_1_1_kursy_pokaz_soap_binding_stub.html#aa8b296ac90b4ab4c880652527c013db2"><param name="ImageNumber" value="11"></OBJECT>
+                        </UL>
+                      </UL>
+                    </UL>
+                  </UL>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
